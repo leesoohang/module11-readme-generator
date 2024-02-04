@@ -13,7 +13,7 @@ const questions = [
         {
             name: "description",
             type: "input",
-            message: "Write a short description explaining your project",
+            message: "Write a short description explaining your project:",
         },
         {
             name: "installation",
@@ -34,6 +34,11 @@ const questions = [
             name: "contact",
             type: "input",
             message: "Include your GitHub profile here for further questions:",
+        },
+        {
+            name: "email",
+            type: "email",
+            message: "Include your email address so people can contact you:",
         }
 ];
 
