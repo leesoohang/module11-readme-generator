@@ -61,7 +61,7 @@ const questions = [
         {
             name: "contribute",
             type: "input",
-            message: "Add guidelines for how other can contribute to your application: ",
+            message: "Add guidelines for how others can contribute to your application: ",
         },
         {
             name: "test",

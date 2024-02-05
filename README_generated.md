@@ -1,7 +1,7 @@
-Apache 2.0 License [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-# fjwe
+The MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator using Node.js
 ## Description
-ejkrlw
+This project is to quickly and easily create a README file by using a command-line application. <br>To produce this high-quality README file, the Inquirer package is used for user’s input. <br>This is a placeholder paragraph for description.
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,17 +10,17 @@ ejkrlw
   * [Contributing](#contributing)
   * [Tests](#tests)
 ## Installation
-ejrlw
+1. Install Node.js <br>2. Initialize npm “npm init -y” in your terminal <br>3. Install Inquirer package “npm install inquirer” <br>
 ## Usage
-jwelkr
+To initialize the program, please type “node index.js” in your terminal.
 ## Credits
-jwelrk
+Inquirer package documentation: <br><br>https://www.npmjs.com/package/inquirer
 ## License
-This application is licensed under Apache 2.0 License [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0). 
+This application is licensed under The MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). 
 ## Contributing
-ejrkw
+This is a placeholder paragraph as this section is currently not applicable.
 ## Tests
-wejrlkw
+This is a placeholder paragraph as this section is currently not applicable.
 ## Questions
-If there are further questions, please feel free to contact me. My email address is <a href="mailto:wejlkr">wejlkr</a>.
-My GitHub profile is <a href="https://github.com/wejrlk">wejrlk</a>.
+If there are further questions, please feel free to contact me. My email address is <a href="mailto:li_xiuheng@hotmail.com">li_xiuheng@hotmail.com</a>.
+My GitHub profile is <a href="https://github.com/leesoohang">leesoohang</a>.
