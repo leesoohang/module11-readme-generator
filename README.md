@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1guA0A1OEwvW0DaomJOq0IXSv4xwVkFcd/view
 
 Link to the repository:
 
-https://github.com/leesoohang/module11-readme-generator
+https://github.com/leesoohang/module11-readme-generator.git
 
 ## Installation
 1.	Node.js is required to initialize the program
