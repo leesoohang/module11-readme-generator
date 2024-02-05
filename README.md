@@ -8,10 +8,12 @@ The most difficult part this time is to understand how to display the answer of 
 
 The next time I might learn how to create License text file based on user selection.
 
-Link to the walkthrough:
+Link to the walkthrough video:
+
 https://drive.google.com/file/d/1guA0A1OEwvW0DaomJOq0IXSv4xwVkFcd/view
 
 Link to the repository:
+
 https://github.com/leesoohang/module11-readme-generator
 
 ## Installation
