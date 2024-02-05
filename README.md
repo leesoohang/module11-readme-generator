@@ -23,6 +23,8 @@ https://github.com/leesoohang/module11-readme-generator
 ## Usage
 The sample generate README file is named ‘README_generated’ in the folder. Prompt questions can be found in the script ‘index.js’.
 
+To test the program, please type 'node index.js' in your terminal.
+
 ## Credits
 Inquirer package documentation:
 
